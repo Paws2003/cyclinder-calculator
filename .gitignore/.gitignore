@@ -1,0 +1,26 @@
+#Cylinder calculator
+#by Paws2003
+
+raduis = float(input(" enter a raduis?"))
+height = float(input(" enter a height?"))
+
+volume = (3.14159*raduis*raduis*height)
+print("the volume of your cylindr is",volume,"cm cubed")
+
+surface area = (2*3.14159*raduis*raduis+2*3.14159*raduis*height)
+print("the surface area of your cylinder is",surface area,"cm cubed")
+
+print("     #####     #####     #####     ")
+print("    #######   #######   #######    ")
+print("   ######### ######### #########  ")
+print("    #######   #######   #######     ####     ")
+print("     #####     #####     #####     ####     ")
+print("      ###       ###       ###     ###     ")
+print("                                      ")
+print("     #############################     ")
+print("      ###########################     ")
+print("        #######################       ")
+print("           #################      ")
+print("              ###########  ")
+print("                  ####   ")
+      
